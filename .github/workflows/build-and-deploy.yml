@@ -20,6 +20,7 @@ jobs:
         uses: thecodingmachine/map-optimizer-action@master
 
       - name: Bash
+
         run: |
           ls -al
           git config --global user.email "d.negrier@thecodingmachine.com"
