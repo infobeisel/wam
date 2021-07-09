@@ -17,7 +17,7 @@ click the **"Use this template"** button. You will be prompted to enter a reposi
 
 ![](docs/create_repo.png)
 
-Be sure to keep the repository "Public".
+Be sure to keep the repository "Public". 
 
 In your newly created repository, click on the **Settings tab** and scroll down to the **GitHub Pages** section.
 Then select the **gh-pages** branch. 
