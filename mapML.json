@@ -12,7 +12,7 @@
          "target":"map.json"
         }
     },
- "height":34, 
+ "height":34,
  "infinite":false,
  "layers":[
         {
@@ -25,7 +25,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/wam\/map.json"
+                 "value":".\/map.json"
                 }],
          "type":"tilelayer",
          "visible":true,
