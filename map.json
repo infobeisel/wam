@@ -33,6 +33,12 @@
          "id":17,
          "name":"exit",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"exitUrl",
+                 "type":"string",
+                 "value":".\/mapML.json"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
